@@ -1,0 +1,17 @@
+*.hex
+*.elf
+build/
+tools/log/
+tools/dist/
+*.egg-info/
+.dependencies
+.arduino/
+.core
+.libs
+.vscode/*
+!.vscode/settings.json
+!.vscode/c_cpp_properties.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/intellisense.h
